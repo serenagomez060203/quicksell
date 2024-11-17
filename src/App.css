@@ -1,0 +1,16 @@
+.app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .app-header {
+    background-color: #282c34;
+    padding: 16px;
+    color: white;
+  }
+  
+  .app-header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
